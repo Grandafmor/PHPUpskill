@@ -78,7 +78,9 @@ echo '<br><br><br>';
 echo '10.) <br>';
 define('PI', 3.14);
 echo PI. '<br>';
-var_dump(defined('PI')); // defined(PI2)
+var_dump(defined('PI')); 
+echo '<br>';
+var_dump(defined('PI2')); // defined(PI2)
 echo '<br><br><br>';
 
 // 12. Using PHP built-in constants
